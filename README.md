@@ -2,6 +2,8 @@
 
 Simple lazy load effect in React Native
 
+![Yzload Example](https://media.licdn.com/dms/image/C5122AQHyEaTEG6RqnQ/feedshare-shrink_8192/0?e=1550307600&v=beta&t=47LYlWlnbA0zDl5f_dm15H-PcjodfL1puhMh3JPKNUw)
+
 # Installation
 
 `$ npm i react-native-yzload --save`
