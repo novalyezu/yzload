@@ -15,7 +15,7 @@ Simple lazy load effect in React Native
 ```
 import Yzload from 'react-native-yzload'
 
-let yourset = {
+let defaultset = {
     width: 100,
     height: 100,
     duration: 1500,
@@ -23,5 +23,5 @@ let yourset = {
     outputRange: ["#adadad", "#f9f9f9", "#adadad"] // same as inputRange length
 }
 
-<Yzload setprop={yourset} />
+<Yzload setprop={defaultset} />
 ```
