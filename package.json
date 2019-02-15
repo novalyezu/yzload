@@ -1,6 +1,6 @@
 {
   "name": "react-native-yzload",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple lazy load effect in React Native",
   "main": "index.js",
   "scripts": {
