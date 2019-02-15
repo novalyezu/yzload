@@ -22,4 +22,6 @@ let yourset = {
     inputRange: [0, 0.5, 1], // start at 0 and end at 1
     outputRange: ["#adadad", "#f9f9f9", "#adadad"] // same as inputRange length
 }
+
+<Yzload setprop={yourset} />
 ```
