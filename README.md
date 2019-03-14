@@ -14,7 +14,7 @@ Simple lazy load effect in React Native
 
 # Usage
 
-```
+```javascript
 import Yzload from 'react-native-yzload'
 
 let defaultset = {
